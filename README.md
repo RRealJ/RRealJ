@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RRealJ
-- 👀 I’m interested in learn how to improve on Python and others languages as well.
-- 🌱 I’m currently learning Python, im still in a very beginner level.
-- 💞️ I’m looking to collaborate// right now, Im not in the level of helping, I dont have experience, it will be pretty much as a "Trainee" or intern a way to gain that experience, on projects. 
-- 📫 How to reach me at Twitter: @RRJReal (I mainly speak portuguese, but also understand english and a bit of spanish).
+- 👋 Hi, I’m Renato, student of CS, IT and IS in UNIPAR - PR - Brazil
+- 👀 I’m interested in participate in projects open source and bootcamps to improve my skills. I also like to make bread as a hobby.
+- 🌱 I’m currently learning Python in a intermediary level, html5/css3, I know bits of Java and C, and looking forward to learn JS in the future.
+- 📫 How to reach me: You can send a email on renatoreal.prog@gmail.com or a DM on twitter @RRJReal
 
 <!---
 RRealJ/RRealJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
